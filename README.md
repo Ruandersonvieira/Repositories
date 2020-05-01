@@ -10,9 +10,8 @@
 
 <p align="center">
   <a href="#back-end">Back-End</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#front-end">Front-End</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#mobile">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#iot">IoT</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#front-end">Front-End</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Ruandersonvieira/Talks">Talks</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
@@ -77,8 +76,8 @@
 <center>
 <table align="center">
   <tr>
-    <a>
-      <th>Name</th>
+    <a href="https://github.com/Ruandersonvieira/gobarber-app">
+      <th>Gobarber-app</th>
     </a>
     <th>Description</th>
     <th>Type</th>
