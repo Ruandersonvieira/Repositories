@@ -32,7 +32,7 @@
       </a>
     </td>
     <td></td>
-    <td>React-Native</td>
+    <td>Node</td>
   </tr>
   <tr>
     <td>
@@ -41,7 +41,7 @@
       </a>
     </td>
     <td></td>
-    <td>React-Native</td>
+    <td>Node</td>
   </tr>
 </table>
 </center>
@@ -62,7 +62,7 @@
       </a>
     </td>
     <td></td>
-    <td>React-Native</td>
+    <td>ReactJS</td>
   </tr>
   <tr>
     <td>
@@ -71,7 +71,7 @@
       </a>
     </td>
     <td></td>
-    <td>React-Native</td>
+    <td>ReactJS</td>
   </tr>
   <tr>
     <td>
@@ -80,7 +80,7 @@
       </a>
     </td>
     <td></td>
-    <td>React-Native</td>
+    <td>ReactJS</td>
   </tr>
   <tr>
     <td>
@@ -89,7 +89,7 @@
       </a>
     </td>
     <td></td>
-    <td>React-Native</td>
+    <td>ReactJS</td>
   </tr>
   <tr>
     <td>
@@ -98,7 +98,7 @@
       </a>
     </td>
     <td></td>
-    <td>React-Native</td>
+    <td>ReactJS</td>
   </tr>
 </table>
 </center>
