@@ -19,7 +19,6 @@
 
 ### Back-End
 
-<center>
 <table align="center">
   <tr>
     <th>Name</th>
@@ -28,12 +27,21 @@
   </tr>
   <tr>
     <td>
-      <a href="#memo-license">
-        License
+      <a href="https://github.com/Ruandersonvieira/facebook-web">
+        Gobarber
       </a>
     </td>
-    <td>Laravel </td>
-    <td>PHP</td>
+    <td></td>
+    <td>React-Native</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Ruandersonvieira/product-hunt-api">
+        Product Hunt
+      </a>
+    </td>
+    <td></td>
+    <td>React-Native</td>
   </tr>
 </table>
 </center>
@@ -49,12 +57,48 @@
   </tr>
   <tr>
     <td>
-      <a href="#memo-license">
-        License
+      <a href="https://github.com/Ruandersonvieira/gobarber-api">
+        Facebook
       </a>
     </td>
-    <td>Laravel </td>
-    <td>PHP</td>
+    <td></td>
+    <td>React-Native</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Ruandersonvieira/github-repositories-web">
+        Github Repositories
+      </a>
+    </td>
+    <td></td>
+    <td>React-Native</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Ruandersonvieira/gobarber-web">
+        Gobarber
+      </a>
+    </td>
+    <td></td>
+    <td>React-Native</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Ruandersonvieira/product-hunt-web">
+        Product Hunt
+      </a>
+    </td>
+    <td></td>
+    <td>React-Native</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Ruandersonvieira/rocketshoes-web">
+        Rocketshoes
+      </a>
+    </td>
+    <td></td>
+    <td>React-Native</td>
   </tr>
 </table>
 </center>
@@ -70,12 +114,39 @@
   </tr>
   <tr>
     <td>
-      <a href="#memo-license">
-        License
+      <a href="https://github.com/Ruandersonvieira/gobarber-app">
+        Github Trending
       </a>
     </td>
-    <td>Laravel </td>
-    <td>PHP</td>
+    <td></td>
+    <td>React-Native</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Ruandersonvieira/github-users-app">
+        Github Users
+      </a>
+    </td>
+    <td></td>
+    <td>React-Native</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Ruandersonvieira/gobarber-app">
+        Gobarber
+      </a>
+    </td>
+    <td></td>
+    <td>React-Native</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Ruandersonvieira/product-hunt-app">
+        Product Hunt
+      </a>
+    </td>
+    <td></td>
+    <td>React-Native</td>
   </tr>
 </table>
 </center>
