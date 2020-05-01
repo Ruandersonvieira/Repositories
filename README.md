@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-   List of all links and information from my public repositories.
+   List of all links and information from my repositories and projects.
 </h4>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <a href="#front-end">Front-End</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#mobile">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#iot">IoT</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://github.com/Ruandersonvieira/Talks">Talks</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Ruandersonvieira/Talks">Talks</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -30,7 +30,6 @@
     <th>Type</th>
     <th>Languages</th>
   </tr>
-  
   <tr>
     <td>bootcamp-gostack-desafio-01</td>
     <td></td>
@@ -43,17 +42,59 @@
     <td>Back-End | Front-End</td>
     <td>PHP</td>
   </tr>
+</table>
+</center>
+
+### Front-End
+
+<center>
+<table align="center">
   <tr>
-    <td>docker-meet</td>
-    <td>Docker meet - 29/02/2020</td>
-    <td>DevOps | Back-End</td>
-    <td>Docker | Node.Js</td>
+    <a>
+      <th>Name</th>
+    </a>
+    <th>Description</th>
+    <th>Type</th>
+    <th>Languages</th>
   </tr>
   <tr>
-    <td>e-clin_login</td>
-    <td>Web page for e-clin project</td>
-    <td>Front</td>
-    <td>CSS</td>
+    <td>bootcamp-gostack-desafio-01</td>
+    <td></td>
+    <td>Back-End</td>
+    <td>Node.Js</td>
+  </tr>
+  <tr>
+    <td>crash-laravel</td>
+    <td>Laravel </td>
+    <td>Back-End | Front-End</td>
+    <td>PHP</td>
+  </tr>
+</table>
+</center>
+
+### Mobile
+
+<center>
+<table align="center">
+  <tr>
+    <a>
+      <th>Name</th>
+    </a>
+    <th>Description</th>
+    <th>Type</th>
+    <th>Languages</th>
+  </tr>
+  <tr>
+    <td>bootcamp-gostack-desafio-01</td>
+    <td></td>
+    <td>Back-End</td>
+    <td>Node.Js</td>
+  </tr>
+  <tr>
+    <td>crash-laravel</td>
+    <td>Laravel </td>
+    <td>Back-End | Front-End</td>
+    <td>PHP</td>
   </tr>
 </table>
 </center>
