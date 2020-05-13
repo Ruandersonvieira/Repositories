@@ -167,7 +167,7 @@
       </a>
     </td>
     <td></td>
-    <td>D</td>
+    <td>Docker</td>
   </tr>
 </table>
 </center>
