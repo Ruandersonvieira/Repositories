@@ -23,7 +23,7 @@
   <tr>
     <th>Name</th>
     <th>Description</th>
-    <th>Languages</th>
+    <th>Techs</th>
   </tr>
   <tr>
     <td>
@@ -46,6 +46,54 @@
 </table>
 </center>
 
+### Mobile
+
+<center>
+<table align="center">
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Techs</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Ruandersonvieira/gobarber-app">
+        Github Trending
+      </a>
+    </td>
+    <td></td>
+    <td>React-Native</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Ruandersonvieira/github-users-app">
+        Github Users
+      </a>
+    </td>
+    <td></td>
+    <td>React-Native</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Ruandersonvieira/gobarber-app">
+        Gobarber
+      </a>
+    </td>
+    <td></td>
+    <td>React-Native</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Ruandersonvieira/product-hunt-app">
+        Product Hunt
+      </a>
+    </td>
+    <td></td>
+    <td>React-Native</td>
+  </tr>
+</table>
+</center>
+
 ### Front-End
 
 <center>
@@ -53,7 +101,7 @@
   <tr>
     <th>Name</th>
     <th>Description</th>
-    <th>Languages</th>
+    <th>Techs</th>
   </tr>
   <tr>
     <td>
@@ -103,50 +151,23 @@
 </table>
 </center>
 
-### Mobile
+### DevOps
 
 <center>
 <table align="center">
   <tr>
     <th>Name</th>
     <th>Description</th>
-    <th>Languages</th>
+    <th>Techs</th>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Ruandersonvieira/gobarber-app">
-        Github Trending
+      <a href="https://github.com/Ruandersonvieira/docker-node">
+        Docker-Node
       </a>
     </td>
     <td></td>
-    <td>React-Native</td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Ruandersonvieira/github-users-app">
-        Github Users
-      </a>
-    </td>
-    <td></td>
-    <td>React-Native</td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Ruandersonvieira/gobarber-app">
-        Gobarber
-      </a>
-    </td>
-    <td></td>
-    <td>React-Native</td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Ruandersonvieira/product-hunt-app">
-        Product Hunt
-      </a>
-    </td>
-    <td></td>
-    <td>React-Native</td>
+    <td>D</td>
   </tr>
 </table>
 </center>
