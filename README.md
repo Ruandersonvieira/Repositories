@@ -43,6 +43,15 @@
     <td></td>
     <td>Node</td>
   </tr>
+   <tr>
+    <td>
+      <a href="https://github.com/Ruandersonvieira/ecoleta-api">
+        Ecoleta
+      </a>
+    </td>
+    <td></td>
+    <td>Node | Typescript</td>
+  </tr>
 </table>
 </center>
 
