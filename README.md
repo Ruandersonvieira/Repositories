@@ -50,7 +50,15 @@
       </a>
     </td>
     <td></td>
-    <td>Node | Typescript</td>
+    <td><p align="left">
+  <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/Repositories/master/.github/assets/img/icon/nodejs.png">
+         <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/Repositories/master/.github/assets/img/icon/express.png">
+
+  <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/Repositories/master/.github/assets/img/icon/ts.png">
+    <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/Repositories/master/.github/assets/img/icon/knex.png">
+
+   </p>
+      </td>
   </tr>
 </table>
 </center>
