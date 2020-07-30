@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img alt="logo" title="logo" src="https://github.com/Ruandersonvieira/Repositories/blob/master/.project/assets/img/logo/logo.png" width="200px" />
+   <img alt="logo" title="logo" src="https://github.com/Ruandersonvieira/Repositories/blob/master/.github/assets/img/logo/logo.png" width="200px" />
     <br>
     Ruanderson Vieira - Repositories
 </h1>
